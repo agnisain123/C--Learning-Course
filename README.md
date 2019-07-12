@@ -1,0 +1,2 @@
+# C-Basics
+Hey guys! This is my repository to contain my practice codes in C. The codes are more or less very simple - just to get through the syntax and features of the language. I've been using java all this time. Thanks ~Ayush
