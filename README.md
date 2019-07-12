@@ -5,6 +5,6 @@ This is my repository to contain my practice codes in C. The codes are more or l
 
 Programs included :
 
-1. Diamond Pattern Of Numbers - Iteration
+1. Diamond Pattern Of Numbers - https://github.com/DeathNaughT-GitHub/C-Basics/blob/master/Diamond_Pattern.c
 
 Thanks ~Ayush
