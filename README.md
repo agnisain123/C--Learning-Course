@@ -1,7 +1,9 @@
-# C-Basics
+# C Programming
 Hey guys! 
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Clanguage-1024x341.png)
+
+Although C programming language has become outdated now, yet some institutions prefer including the language in their curriculum as C is called "The mother of all programming languages". Most of the current trending languages are derived from C directly or indirectly. Hence, why not give it a try !
 
 This repository is to maintain my C programming codes as well as all study materials.
 Here we go!
